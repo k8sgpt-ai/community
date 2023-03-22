@@ -15,3 +15,4 @@ it is kept up to date.
 | Person              | Organization    | Other Affiliations                                                      | GitHub Username                                               | Gitlab Username                                   |
 | ------------------- | --------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
 | Alex Jones          | Canonical       | CNCF TAG App Delivery, Open Feature                                     | [alexsjones](https://github.com/AlexsJones)                   | N/A                                               |
+| Thomas Schuetz | Dynatrace | CNCF TAG App Delivery, Keptn | [thschue](https://github.com/thschue) | N/A |
