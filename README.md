@@ -1,4 +1,4 @@
-# community
+# Community
 
 Please find our charter [here](./CHARTER.md)
 
