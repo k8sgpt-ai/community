@@ -16,11 +16,3 @@ Open source the project and find an appropriate long term foundation to support 
 Non Goals
 Creating a generic mouthpiece for a specific AI implementation
 
-
-## Interested parties
-
-If you are interested in participating in the project or wish to publicly show interest please add your name and company/community below ( Open a Pull request )
-
-- Alex Jones ( Canonical )
-
-
