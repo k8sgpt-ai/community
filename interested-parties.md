@@ -5,7 +5,7 @@ Being an _Interested Party_ does **NOT** imply any commitment to dedicate time t
 
 ## Participating
 
-To declare your interest in OpenFeature, just add your name and/or organization
+To declare your interest in k8sgpt-ai, just add your name and/or organization
 in a pull request. For individuals referencing the organization and other
 affiliations is optional. Organizations must specify a contact email and ensure
 it is kept up to date.
