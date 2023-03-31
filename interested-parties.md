@@ -19,3 +19,4 @@ it is kept up to date.
 | Brad McCoy            | Basiq           | CNCF, CDF, Keptn                                   | [bradmccoydev](https://github.com/bradmccoydev)   | N/A             |
 | Johannes Kleinlercher | suXess-IT       | CNCF App Delivery                                  | [jkleinlercher](https://github.com/jkleinlercher) | N/A             |
 | Roberth Strand        | Amesto Fortytwo | CNCF App Delivery, OpenGitOps, Cloud Native Norway | [roberthstrand](https://github.com/roberthstrand) | N/A             |
+| Alexandre Steppé      | NapoleonGames   |                                                    | [Haticode](https://github.com/HatiCode)           | N/A             |
