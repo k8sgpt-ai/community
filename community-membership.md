@@ -26,6 +26,7 @@ New contributors should be welcomed to the community by existing members, helped
 Members are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in Subprojects through GitHub teams, and pre-submit tests are automatically run for their PRs. Members are expected to remain active contributors to the community.
 
 **Defined by:** Member of the K8sGPT GitHub organization
+**Access:** Write access scoped to the subproject they are active in
 
 ### Requirements
 * Enabled [two-factor authentication] on their GitHub account
@@ -47,7 +48,8 @@ Members are continuously active contributors in the community. They can have iss
 ## Approver
 Code approvers are able to both review and approve code contributions. While code review is focused on code quality and correctness, approval is focused on holistic acceptance of a contribution including backward/forward compatibility, adhering to API and flag conventions, subtle performance and correctness issues, interactions with other parts of the system, etc.
 
-**Defined by:** Approvers entry in an OWNERS file in a repo owned by the K8sGPT project. Approver status is scoped to a part of the codebase.
+**Defined by:** Member of the <subproject>-approvers Group in the GitHub Organization.
+**Access:** Write access to the subproject, approval permissions (CODEOWNERS) for the subproject.
 
 ### Requirements
 The following apply to the part of the codebase for which one would be an approver in an [OWNERS] file.
@@ -71,7 +73,9 @@ The following apply to the part of the codebase for which one would be an approv
 ## Subproject Maintainer
 Note: This is a generalized high-level description of the role, and the specifics of the subproject owner role's responsibilities and related processes CAN be defined for individual subprojects.
 Subproject Maintainers are the technical authority for a subproject in the K8sGPT project. They MUST have demonstrated both good judgement and responsibility towards the health of that subproject. Subproject Maintainers MUST set technical direction and make or approve design decisions for their subproject - either directly or through delegation of these responsibilities.
-Defined by: owners entry in subproject [OWNERS] files.
+
+**Defined by:** Member of the <subproject>-maintainers Group in the GitHub Organization.
+**Access:** Maintain access to the subproject, approval permissions (CODEOWNERS) for the subproject.
 
 ### Requirements
 Unlike the roles outlined above, the Maintainers of a subproject are typically limited to a relatively small group of decision-makers and updated as fits the needs of the subproject.
@@ -101,6 +105,7 @@ The following apply to the subproject for which one would be a maintainer.
 Organization maintainers provide technical oversight for the overall architectural design and project development.
 
 *Defined by:* maintainers entry in the [MAINTAINERS](MAINTAINERS.md) file.
+**Access:** Full access to all K8sGPT GitHub organizations.
 
 ### Requirements
 * Deep understanding of the technical goals and direction of the project
