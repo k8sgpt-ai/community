@@ -5,16 +5,18 @@ Being an _Interested Party_ does **NOT** imply any commitment to dedicate time t
 
 ## Participating
 
-To declare your interest in OpenFeature, just add your name and/or organization
+To declare your interest in k8sgpt-ai, just add your name and/or organization
 in a pull request. For individuals referencing the organization and other
 affiliations is optional. Organizations must specify a contact email and ensure
 it is kept up to date.
 
 ## Interested individuals
 
-| Person                | Organization | Other Affiliations                  | GitHub Username                                   | Gitlab Username |
-|-----------------------|--------------|-------------------------------------|---------------------------------------------------|-----------------|
-| Alex Jones            | Canonical    | CNCF TAG App Delivery, Open Feature | [alexsjones](https://github.com/AlexsJones)       | N/A             |
-| Thomas Schuetz        |              | CNCF TAG App Delivery, Keptn        | [thschue](https://github.com/thschue)             | N/A             |
-| Brad McCoy            | Basiq        | CNCF, CDF, Keptn                    | [bradmccoydev](https://github.com/bradmccoydev)   | N/A             |
-| Johannes Kleinlercher | suXess-IT    | CNCF App Delivery                   | [jkleinlercher](https://github.com/jkleinlercher) | N/A             |
+| Person                | Organization    | Other Affiliations                                 | GitHub Username                                   | Gitlab Username |
+|-----------------------|-----------------|----------------------------------------------------|---------------------------------------------------|-----------------|
+| Alex Jones            | Canonical       | CNCF TAG App Delivery, Open Feature                | [alexsjones](https://github.com/AlexsJones)       | N/A             |
+| Thomas Schuetz        |                 | CNCF TAG App Delivery, Keptn                       | [thschue](https://github.com/thschue)             | N/A             |
+| Brad McCoy            | Basiq           | CNCF, CDF, Keptn                                   | [bradmccoydev](https://github.com/bradmccoydev)   | N/A             |
+| Johannes Kleinlercher | suXess-IT       | CNCF App Delivery                                  | [jkleinlercher](https://github.com/jkleinlercher) | N/A             |
+| Roberth Strand        | Amesto Fortytwo | CNCF App Delivery, OpenGitOps, Cloud Native Norway | [roberthstrand](https://github.com/roberthstrand) | N/A             |
+| Alexandre Steppé      | NapoleonGames   |                                                    | [Haticode](https://github.com/HatiCode)           | N/A             |

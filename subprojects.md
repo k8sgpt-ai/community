@@ -9,4 +9,3 @@ This page lists all subprojects of the K8sGPT project, its repositories and main
 | Documentation / Website | https://github.com/k8sgpt-ai/docs                                                       | @AnaisUrlichs                 |                             |
 | Community               | https://github.com/k8sgpt-ai/community                                                  | @AlexsJones, @thschue         |                             |
 | Demo                    | https://github.com/k8sgpt-ai/k8sgpt-killer-coda                                         | @k8sgpt-ai/demo-maintainers   |                             |
-
