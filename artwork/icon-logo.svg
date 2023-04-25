@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg_document" data-name="svg document" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 292">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-width: 20px;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <circle id="circle1" class="cls-1" cx="146" cy="146" r="136"/>
+  <circle id="circle2" class="cls-1" cx="147" cy="199" r="30"/>
+  <circle id="circle3" class="cls-1" cx="147" cy="179" r="65"/>
+  <circle id="circle4" class="cls-1" cx="146" cy="155" r="108"/>
+  <circle id="circle5" class="cls-2" cx="147" cy="201" r="25"/>
+</svg>

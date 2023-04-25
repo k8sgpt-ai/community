@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg_document" data-name="svg document" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 379 445">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-width: 20px;
+      }
+
+      .cls-3 {
+        font-family: Antonio-Regular, Antonio;
+        font-size: 150px;
+        font-variation-settings: 'wght' 400;
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <g id="main_group" data-name="main group">
+    <text id="sample_text_element" data-name="sample text element" class="cls-3" text-rendering="geometricPrecision" transform="translate(4.45361 439.64429)"><tspan x="0" y="0">K8SGPT</tspan></text>
+  </g>
+  <circle id="circle1" class="cls-1" cx="191.04639" cy="150.35534" r="136"/>
+  <circle id="circle2" class="cls-1" cx="192.04639" cy="203.35534" r="30"/>
+  <circle id="circle3" class="cls-1" cx="192.04639" cy="183.35534" r="65"/>
+  <circle id="circle4" class="cls-1" cx="191.04639" cy="159.35534" r="108"/>
+  <circle id="circle5" class="cls-2" cx="192.04639" cy="205.35534" r="25"/>
+</svg>
