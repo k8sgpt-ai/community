@@ -138,14 +138,3 @@ Whenever people are nominated for a role in the project, the following rules app
 * Sponsors must be affiliated to a different company than the nominee
 * If multiple sponsors are needed, the sponsors have to be affiliated to at least 2 companies
 * The approval issue for nominees have to stay open at least one week for comments. The sponsors must express their support by commenting "+1" on the issue. Other project and subproject maintainers can express their support or objections by commenting "-1" on the issue. If there is no consensus for granting the role to the nominee after 4 weeks, the nomination will be rejected and the issue closed.
-
-
-
-
-
-
-
-
-
-
-

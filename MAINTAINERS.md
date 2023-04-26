@@ -4,5 +4,3 @@
 |----------------|-------------|
 | Alex Jones     | @AlexsJones |
 | Thomas Schuetz | @thschue    |
-
-
