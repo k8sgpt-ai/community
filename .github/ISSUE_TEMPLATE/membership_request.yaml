@@ -1,6 +1,6 @@
 name: Membership Request
-description: Request Membership in the Organization
-title: "[Membership]: "
+description: Request Membership in the K8sGPT Organization
+title: "[Membership]: <Membership Level> - <GitHub Username>"
 labels: ["community"]
 assignees:
   - k8sgpt-ai/maintainers
