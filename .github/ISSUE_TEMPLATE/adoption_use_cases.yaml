@@ -57,5 +57,5 @@ body:
         - label: I am allowed to share this story
           required: true
         - label: I agree that this story can be used for project promotion purposes
-        - label: I already added me and my company in the [ADOPTERS](ADOPTERS.md) file
+        - label: I already added me and my company in the [ADOPTERS](https://github.com/k8sgpt-ai/community/blob/main/ADOPTERS.md) file
           required: true
