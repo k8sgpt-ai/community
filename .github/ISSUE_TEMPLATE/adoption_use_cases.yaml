@@ -17,7 +17,7 @@ body:
       placeholder: "ACME Inc."
     validations:
       required: false
-  - type: dropdown
+  - type: input
     id: contact
     attributes:
       label: Username on the K8sGPT Slack / Twitter
