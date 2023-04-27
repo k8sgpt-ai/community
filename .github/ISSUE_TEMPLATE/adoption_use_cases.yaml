@@ -24,18 +24,6 @@ body:
       description: Tell us how we can contact you
     validations:
       required: true
-  - type: dropdown
-    id: subproject
-    attributes:
-      label: Subproject
-      description: If applicable, please add the subproject you are applying for
-      options:
-        - k8sgpt
-        - community
-        - docs
-        - k8sgpt-operator
-    validations:
-      required: false
   - type: checkboxes
     id: components
     attributes:
@@ -51,12 +39,14 @@ body:
     attributes:
       label: Your Story
       description: What is your story about K8sGPT? Where did you use it and how did it help you?
+    validations:
       required: true
   - type: textarea
     id: improvements
     attributes:
       label: Improvements
       description: What could be improved in K8sGPT?
+    validations:
       required: false
   - type: checkboxes
     id: checks
