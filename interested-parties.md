@@ -20,4 +20,5 @@ it is kept up to date.
 | Johannes Kleinlercher | suXess-IT       | CNCF App Delivery                                  | [jkleinlercher](https://github.com/jkleinlercher)          | N/A             |
 | Roberth Strand        | Amesto Fortytwo | CNCF App Delivery, OpenGitOps, Cloud Native Norway | [roberthstrand](https://github.com/roberthstrand)          | N/A             |
 | Alexandre Steppé      | NapoleonGames   |                                                    | [Haticode](https://github.com/HatiCode)                    | N/A             |
+| Peter Pan             | DaoCloud        |                                                    | [panpan0000](https://github.com/panpan0000)                | N/A             |
 | Matthis Holleville    | Agicap          |                                                    | [matthisholleville](https://github.com/matthisholleville)  | N/A             |
