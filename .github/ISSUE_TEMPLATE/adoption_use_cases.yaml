@@ -1,0 +1,61 @@
+name: Adoption / Use Case
+description: Tell us your Adoption / Use Case Story
+title: "[Adoption]: <Company> - <Title>"
+labels: ["community"]
+assignees:
+  - k8sgpt-ai/maintainers
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for telling us your story about K8sGPT!
+  - type: input
+    id: company
+    attributes:
+      label: Company Name (optional)
+      description: Name of the company you are working for
+      placeholder: "ACME Inc."
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Username on the K8sGPT Slack / Twitter
+      description: Tell us how we can contact you
+    validations:
+      required: true
+  - type: checkboxes
+    id: components
+    attributes:
+      label: Used Components
+      description: Which components of K8sGPT are you using?
+      options:
+        - label: k8sgpt
+          required: false
+        - label: k8sgpt-operator
+          required: false
+  - type: textarea
+    id: story
+    attributes:
+      label: Your Story
+      description: What is your story about K8sGPT? Where did you use it and how did it help you?
+    validations:
+      required: true
+  - type: textarea
+    id: improvements
+    attributes:
+      label: Improvements
+      description: What could be improved in K8sGPT?
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Please check the following
+      description: By submitting this issue, you state that you are allowed to share this story and that you agree that we can use it for project promotion purposes.
+      options:
+        - label: I am allowed to share this story
+          required: true
+        - label: I agree that this story can be used for project promotion purposes
+        - label: I already added me and my company in the [ADOPTERS](https://github.com/k8sgpt-ai/community/blob/main/ADOPTERS.md) file
+          required: true
