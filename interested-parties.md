@@ -22,3 +22,4 @@ it is kept up to date.
 | Alexandre Steppé      | NapoleonGames   |                                                    | [Haticode](https://github.com/HatiCode)                    | N/A             |
 | Matthis Holleville    | Agicap          |                                                    | [matthisholleville](https://github.com/matthisholleville)  | N/A             |
 | Peter Pan             | DaoCloud        |                                                    | [panpan0000](https://github.com/panpan0000)                | N/A             |
+| Aisuko Li             |                 |                                                    | [aisuko](https://github.com/Aisuko)                        | N/A             |
