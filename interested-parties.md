@@ -23,3 +23,4 @@ it is kept up to date.
 | Matthis Holleville    | Agicap          |                                                    | [matthisholleville](https://github.com/matthisholleville)  | N/A             |
 | Peter Pan             | DaoCloud        |                                                    | [panpan0000](https://github.com/panpan0000)                | N/A             |
 | Aisuko Li             |                 |                                                    | [aisuko](https://github.com/Aisuko)                        | N/A             |
+| Rakshit Gondwal       |                 | WeMakeDevs                                         | [rakshitgondwal](https://github.com/rakshitgondwal)        | N/A             |
