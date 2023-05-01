@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg_document" data-name="svg document" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 276.99881 355">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3dc7f4;
+        stroke-width: 7px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-2 {
+        fill: #bd3026;
+        stroke-width: 15px;
+      }
+
+      .cls-6 {
+        font-family: Antonio-Regular, Antonio;
+        font-size: 70.20383px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-6, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: #70ccda;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 6px;
+      }
+
+      .cls-4 {
+        fill: #4db748;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        stroke-width: 9px;
+      }
+    </style>
+  </defs>
+  <ellipse id="circle1" class="cls-2" cx="137.95309" cy="145.24346" rx="127.5" ry="127.64901"/>
+  <ellipse id="circle4" class="cls-4" cx="126.94789" cy="149.36878" rx="108.75" ry="107.84729"/>
+  <ellipse id="circle4-2" data-name="circle4" class="cls-3" cx="108.06815" cy="152.29919" rx="84.95881" ry="88.58266"/>
+  <g id="main_group" data-name="main group">
+    <g id="sample_text_element" data-name="sample text element" class="cls-7" text-rendering="geometricPrecision">
+      <text class="cls-6" transform="translate(31.53027 348.16748) scale(1.16792 1)"><tspan x="0" y="0">K8SGPT</tspan></text>
+    </g>
+  </g>
+  <ellipse id="circle3" class="cls-1" cx="84.04684" cy="149.36878" rx="60.9375" ry="61.00872"/>
+  <ellipse id="circle5" class="cls-5" cx="53.57809" cy="149.36878" rx="30.46875" ry="31.20831"/>
+</svg>
