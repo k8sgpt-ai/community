@@ -8,15 +8,11 @@ If you are interested to be informed about the project or to contribute, feel fr
 
 ## Contributing
 
-We welcome contributions from the community! Please refer to our Contributing Guidelines for more information on how to get involved.
+We welcome contributions from the community! Please refer to our [Contributing Guidelines](../k8sgpt/CONTRIBUTING.md) for more information on how to get involved.
 
 ## Code of Conduct
 
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that all contributors are expected to follow. Please read it before contributing.
-
-## Interested Parties
-
-If you are interested in the project or would like to contribute, please add yourself and/or your organization to our [Interested Parties](https://www.notion.so/467a8f2a4d8e4e7ab5f7c7bc6460b1c9) list.
 
 ## Charter
 

@@ -25,4 +25,4 @@ it is kept up to date.
 | Aisuko Li             |                 |                                                    | [aisuko](https://github.com/Aisuko)                       | N/A             |
 | Rakshit Gondwal       |                 | WeMakeDevs                                         | [rakshitgondwal](https://github.com/rakshitgondwal)       | N/A             |
 | Xinwei Xiong          | OpenIMSDK       |                                                    | [cubxxw](https://github.com/cubxxw)                       | N/A             |
-
+| Camilo Giraldo        |                 |                                                    | [camigira](https://github.com/camigira)                   | N/A             |
