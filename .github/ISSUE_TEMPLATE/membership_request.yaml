@@ -1,0 +1,86 @@
+name: Membership Request
+description: Request Membership in the K8sGPT Organization
+title: "[Membership]: <Membership Level> - <GitHub Username>"
+labels: ["community"]
+assignees:
+  - k8sgpt-ai/maintainers
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in getting Member of the Organization!
+  - type: input
+    id: username
+    attributes:
+      label: GitHub Username
+      description: Your GitHub username
+      placeholder: "@octocat"
+    validations:
+      required: true
+  - type: dropdown
+    id: membership-level
+    attributes:
+      label: Membership Level
+      description: Which membership level are you applying for?
+      options:
+        - Organization Member
+        - Subproject Approver
+        - Subproject Maintainer
+        - Organization Maintainer
+    validations:
+      required: true
+  - type: dropdown
+    id: subproject
+    attributes:
+      label: Subproject
+      description: If applicable, please add the subproject you are applying for
+      options:
+        - k8sgpt
+        - community
+        - docs
+        - k8sgpt-operator
+    validations:
+      required: false
+  - type: textarea
+    id: sponsors
+    attributes:
+      label: Sponsors
+      description: Please add the sponsors of your request (as described in [community membership](https://github.com/k8sgpt-ai/community/blob/main/community-membership.md))
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Requirements
+      description: Please check the requirements for the membership level you are applying for and describe how you meet them.
+    validations:
+        required: true
+  - type: textarea
+    attributes:
+      label: List of contributions to the project
+      description: Please file a list of contributions (PRs, Links to Talks, Issues) to the project.
+    validations:
+      required: true
+  - type: checkboxes
+    id: code-of-conduct
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/keptn/.github/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+  - type: checkboxes
+    id: contributor-guide
+    attributes:
+      label: Contributor Guide
+      description: By submitting this issue, you state that you read and understood our [Contribution Guide](https://github.com/k8sgpt-ai/k8sgpt/blob/main/CONTRIBUTING.md)
+      options:
+        - label: I have read and understood the Contribution Guide
+          required: true
+  - type: checkboxes
+    id: membership-requirements
+    attributes:
+      label: Contributor Guide and Membership Requirements
+      description: By submitting this issue, you state that you read and understood our [Community Membership Document](https://github.com/k8sgpt-ai/community/blob/main/community-membership.md), are aware of the requirements and responsibilities for the membership level you are applying for and that you meet them.
+      options:
+        - label: I have read and understood the Community Membership Document
+          required: true
