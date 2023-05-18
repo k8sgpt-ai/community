@@ -36,6 +36,7 @@ Time: 12:00 - 13:00
 Joining Info:
 
 Google Meet Link: https://meet.google.com/beu-kbdx-dfa
+
 Calendar: https://calendar.google.com/calendar/u/0?cid=YmE2NzAyZTNkMTIxYjYxN2Q4NmMzYjBjMmE2ZTAzYzgwMTg0NGRiYmMwOTY3MjAzNzJkNDBhZWZjOWJhZGNlNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 
 ## License
