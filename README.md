@@ -26,6 +26,20 @@ You can find our charter [here](./CHARTER.md).
 
 Please refer to our [Adopters list](./ADOPTERS.md) to see who is already using k8sgpt.
 
+## K8sGPT Office Hours
+
+Information:
+
+Meeting: 1st and 3rd Thursday of the month
+Time zone: Europe/London
+Time: 12:00 - 13:00
+Joining Info:
+
+Google Meet Link: https://meet.google.com/beu-kbdx-dfa
+
+Calendar: https://calendar.google.com/calendar/u/0?cid=YmE2NzAyZTNkMTIxYjYxN2Q4NmMzYjBjMmE2ZTAzYzgwMTg0NGRiYmMwOTY3MjAzNzJkNDBhZWZjOWJhZGNlNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+
 ## License
 
 k8sgpt is released under the [Apache-2.0 License](./LICENSE).
+
