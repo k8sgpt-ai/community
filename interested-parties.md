@@ -39,5 +39,5 @@ it is kept up to date.
 | Aisuko Li             |                 |                                                    | [aisuko](https://github.com/Aisuko)                       | N/A             |
 | Rakshit Gondwal       |                 | WeMakeDevs                                         | [rakshitgondwal](https://github.com/rakshitgondwal)       | N/A             |
 | Xinwei Xiong          | OpenIMSDK       |                                                    | [cubxxw](https://github.com/cubxxw)                       | N/A             |
-| Kunal Verma           |                 |   Kubesimplify                                     | [verma-kunal](https://github.com/verma-kunal)          | [verma-kunal](https://gitlab.com/verma-kunal)      |
+| Kunal Verma           |                 | Kubesimplify                                       | [verma-kunal](https://github.com/verma-kunal)             | [verma-kunal](https://gitlab.com/verma-kunal) |
 
