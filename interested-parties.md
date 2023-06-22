@@ -12,6 +12,20 @@ it is kept up to date.
 
 ## Interested individuals
 
+# Interested Parties
+
+This page lists individual and organization stakeholders who declared their interest in the project.
+Being an _Interested Party_ does **NOT** imply any commitment to dedicate time to the project or to adopt k8sgpt-ai.
+
+## Participating
+
+To declare your interest in k8sgpt-ai, just add your name and/or organization
+in a pull request. For individuals referencing the organization and other
+affiliations is optional. Organizations must specify a contact email and ensure
+it is kept up to date.
+
+## Interested individuals
+
 | Person                | Organization    | Other Affiliations                                 | GitHub Username                                           | Gitlab Username |
 | --------------------- | --------------- | -------------------------------------------------- | --------------------------------------------------------- | --------------- |
 | Alex Jones            | Canonical       | CNCF TAG App Delivery, Open Feature                | [alexsjones](https://github.com/AlexsJones)               | N/A             |
@@ -25,4 +39,5 @@ it is kept up to date.
 | Aisuko Li             |                 |                                                    | [aisuko](https://github.com/Aisuko)                       | N/A             |
 | Rakshit Gondwal       |                 | WeMakeDevs                                         | [rakshitgondwal](https://github.com/rakshitgondwal)       | N/A             |
 | Xinwei Xiong          | OpenIMSDK       |                                                    | [cubxxw](https://github.com/cubxxw)                       | N/A             |
-| Yash Pimple           |                 |                                                    | [YashPimple](https://github.com/YashPimple)             | N/A           |
+| Kunal Verma           |                 | Kubesimplify                                       | [verma-kunal](https://github.com/verma-kunal)             | [verma-kunal](https://gitlab.com/verma-kunal) |
+| Yash Pimple           |                 |                                                    | [YashPimple](https://github.com/YashPimple)               | N/A           |
