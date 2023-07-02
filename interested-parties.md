@@ -42,4 +42,5 @@ it is kept up to date.
 | Kunal Verma           |                 | Kubesimplify                                       | [verma-kunal](https://github.com/verma-kunal)             | [verma-kunal](https://gitlab.com/verma-kunal) |
 | Yash Pimple           |                 |                                                    | [YashPimple](https://github.com/YashPimple)               | N/A           |
 | Nitish Kumar          |                 | KodeKloud                                          | [nitishfy](https://github.com/nitishfy)
-N/A
+N/A             |
+            
