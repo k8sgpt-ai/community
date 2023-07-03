@@ -16,7 +16,7 @@ We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that all contributors are expe
 
 ## Interested Parties
 
-If you are interested in the project or would like to contribute, please add yourself and/or your organization to our [Interested Parties](https://www.notion.so/467a8f2a4d8e4e7ab5f7c7bc6460b1c9) list.
+If you are interested in the project or would like to contribute, please add yourself and/or your organization to our [Interested Parties](https://github.com/k8sgpt-ai/community/blob/main/interested-parties.md) list.
 
 ## Charter
 
