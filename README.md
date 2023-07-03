@@ -14,6 +14,10 @@ We welcome contributions from the community! Please refer to our [Contributing G
 
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that all contributors are expected to follow. Please read it before contributing.
 
+## Interested Parties
+
+If you are interested in the project or would like to contribute, please add yourself and/or your organization to our [Interested Parties](https://github.com/k8sgpt-ai/community/blob/main/interested-parties.md) list.
+
 ## Charter
 
 You can find our charter [here](./CHARTER.md).
