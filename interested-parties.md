@@ -39,6 +39,7 @@ it is kept up to date.
 | Aisuko Li             |                 |                                                    | [aisuko](https://github.com/Aisuko)                       | N/A             |
 | Rakshit Gondwal       |                 | WeMakeDevs                                         | [rakshitgondwal](https://github.com/rakshitgondwal)       | N/A             |
 | Xinwei Xiong          | OpenIMSDK       |                                                    | [cubxxw](https://github.com/cubxxw)                       | N/A             |
+| Camilo Giraldo        |                 |                                                    | [camigira](https://github.com/camigira)                   | N/A             |
 | Kunal Verma           |                 | Kubesimplify                                       | [verma-kunal](https://github.com/verma-kunal)             | [verma-kunal](https://gitlab.com/verma-kunal) |
 | Yash Pimple           |                 |                                                    | [YashPimple](https://github.com/YashPimple)               | N/A           |
 | Nitish Kumar          |                 | KodeKloud                                          | [nitishfy](https://github.com/nitishfy)                   |   N/A             |  
