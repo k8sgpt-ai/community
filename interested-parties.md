@@ -35,11 +35,12 @@ it is kept up to date.
 | Roberth Strand        | Amesto Fortytwo | CNCF App Delivery, OpenGitOps, Cloud Native Norway | [roberthstrand](https://github.com/roberthstrand)         | N/A             |
 | Alexandre Steppé      | NapoleonGames   |                                                    | [Haticode](https://github.com/HatiCode)                   | N/A             |
 | Matthis Holleville    | Agicap          |                                                    | [matthisholleville](https://github.com/matthisholleville) | N/A             |
+| Ankit Kumar           |                 | CNCF, GrowInCommunity                              | [kumarankit999](https://github.com/kumarankit999)         | N/A             |
 | Peter Pan             | DaoCloud        |                                                    | [panpan0000](https://github.com/panpan0000)               | N/A             |
 | Aisuko Li             |                 |                                                    | [aisuko](https://github.com/Aisuko)                       | N/A             |
 | Rakshit Gondwal       |                 | WeMakeDevs                                         | [rakshitgondwal](https://github.com/rakshitgondwal)       | N/A             |
 | Xinwei Xiong          | OpenIMSDK       |                                                    | [cubxxw](https://github.com/cubxxw)                       | N/A             |
 | Camilo Giraldo        |                 |                                                    | [camigira](https://github.com/camigira)                   | N/A             |
 | Kunal Verma           |                 | Kubesimplify                                       | [verma-kunal](https://github.com/verma-kunal)             | [verma-kunal](https://gitlab.com/verma-kunal) |
-| Yash Pimple           |                 |                                                    | [YashPimple](https://github.com/YashPimple)               | N/A           |
-| Nitish Kumar          |                 | KodeKloud                                          | [nitishfy](https://github.com/nitishfy)                   |   N/A             |  
+| Yash Pimple           |                 |                                                    | [YashPimple](https://github.com/YashPimple)               | N/A             |
+| Nitish Kumar          |                 | KodeKloud                                          | [nitishfy](https://github.com/nitishfy)                   |   N/A           |  
