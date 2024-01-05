@@ -8,3 +8,4 @@ This page lists individual and organization stakeholders who are using K8sGPT in
 |--------|--------------|--------------------|-----------------|-----------------|
 |Anton Smith | Spectro Cloud |                    |  @antongisli               |                 |
 | Chris Munford | Nethopper |     | @cmunford73 |     |
+|JuHyung Son | Upstage | | @JuHyung-Son | |
