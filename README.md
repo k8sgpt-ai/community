@@ -28,16 +28,13 @@ Please refer to our [Adopters list](./ADOPTERS.md) to see who is already using k
 
 ## K8sGPT Office Hours
 
-Information:
+We are currently in the process of scheduling the next Office Hours.
 
-Meeting: 1st and 3rd Thursday of the month
-Time zone: Europe/London
-Time: 12:00 - 13:00
-Joining Info:
+In the meantime, please join our Slack community for more information.
 
-Google Meet Link: https://meet.google.com/beu-kbdx-dfa
+## Slack Community
 
-Calendar: https://calendar.google.com/calendar/u/0?cid=YmE2NzAyZTNkMTIxYjYxN2Q4NmMzYjBjMmE2ZTAzYzgwMTg0NGRiYmMwOTY3MjAzNzJkNDBhZWZjOWJhZGNlNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+K8sGPT has its own Slack community. You can join through the [following link](https://join.slack.com/t/k8sgpt/shared_invite/zt-2ablh72q8-80lw46~ETCWl5dZQdDnfsg).
 
 ## License
 
