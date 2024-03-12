@@ -8,7 +8,7 @@ If you are interested to be informed about the project or to contribute, feel fr
 
 ## Contributing
 
-We welcome contributions from the community! Please refer to our [Contributing Guidelines](../k8sgpt/CONTRIBUTING.md) for more information on how to get involved.
+We welcome contributions from the community! Please refer to our [Contributing Guidelines](https://github.com/k8sgpt-ai/k8sgpt/blob/main/CONTRIBUTING.md) for more information on how to get involved.
 
 ## Code of Conduct
 
