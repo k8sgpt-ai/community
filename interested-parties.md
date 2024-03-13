@@ -44,5 +44,6 @@ it is kept up to date.
 | Kunal Verma           |                 | Kubesimplify                                       | [verma-kunal](https://github.com/verma-kunal)             | [verma-kunal](https://gitlab.com/verma-kunal) |
 | Yash Pimple           |                 |                                                    | [YashPimple](https://github.com/YashPimple)               | N/A             |
 | Nitish Kumar          |                 | KodeKloud                                          | [nitishfy](https://github.com/nitishfy)                   |   N/A           |
-|ARYAN                  |                 |                                                     | [ARYANis00001](https://github.com/ARYANis0001)            | N/A             |
-|Rudraksh Karpe         |                 |                                                     | [rudrakshkarpe](https://github.com/rudrakshkarpe)        | [rudrakshkarpe](https://gitlab.com/rudrakshkarpe) |
+| ARYAN                 |                 |                                                    | [ARYANis00001](https://github.com/ARYANis0001)            | N/A             |
+| Rudraksh Karpe        |                 |                                                    | [rudrakshkarpe](https://github.com/rudrakshkarpe)         | [rudrakshkarpe](https://gitlab.com/rudrakshkarpe) |
+| Ryo Tozawa            |                 |                                                    | [tozastation](https://github.com/tozastation)             |                 |
