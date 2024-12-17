@@ -47,3 +47,4 @@ it is kept up to date.
 |ARYAN                  |                 |                                                     | [ARYANis00001](https://github.com/ARYANis0001)            | N/A             |
 |Rudraksh Karpe         |                 |                                                     | [rudrakshkarpe](https://github.com/rudrakshkarpe)        | [rudrakshkarpe](https://gitlab.com/rudrakshkarpe) |
 | Mike Yeung            |                 |                                                     | [yysun316](https://github.com/yysun316)                  | N/A |
+| Kay Yan               | DaoCloud        | Kubespray, Nerdctl                                  | [yankay](https://github.com/yankay)                      | N/A |
