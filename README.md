@@ -34,7 +34,7 @@ In the meantime, please join our Slack community for more information.
 
 ## Slack Community
 
-K8sGPT has its own Slack community. You can join through the [following link](https://join.slack.com/t/k8sgpt/shared_invite/zt-2ablh72q8-80lw46~ETCWl5dZQdDnfsg).
+K8sGPT has its own Slack community. You can join through the [following link](https://join.slack.com/t/k8sgpt/shared_invite/zt-332vhyaxv-bfjJwHZLXWVCB3QaXafEYQ).
 
 ## License
 
