@@ -1,53 +1,105 @@
 # Interested Parties
 
+
+
 This page lists individual and organization stakeholders who declared their interest in the project.
+
 Being an _Interested Party_ does **NOT** imply any commitment to dedicate time to the project or to adopt k8sgpt-ai.
+
+
 
 ## Participating
 
+
+
 To declare your interest in k8sgpt-ai, just add your name and/or organization
+
 in a pull request. For individuals referencing the organization and other
+
 affiliations is optional. Organizations must specify a contact email and ensure
+
 it is kept up to date.
 
+
+
 ## Interested individuals
+
+
 
 # Interested Parties
 
+
+
 This page lists individual and organization stakeholders who declared their interest in the project.
+
 Being an _Interested Party_ does **NOT** imply any commitment to dedicate time to the project or to adopt k8sgpt-ai.
+
+
 
 ## Participating
 
+
+
 To declare your interest in k8sgpt-ai, just add your name and/or organization
+
 in a pull request. For individuals referencing the organization and other
+
 affiliations is optional. Organizations must specify a contact email and ensure
+
 it is kept up to date.
+
+
 
 ## Interested individuals
 
+
+
 | Person                | Organization    | Other Affiliations                                 | GitHub Username                                           | Gitlab Username |
+
 | --------------------- | --------------- | -------------------------------------------------- | --------------------------------------------------------- | --------------- |
+
 | Alex Jones            | Canonical       | CNCF TAG App Delivery, Open Feature                | [alexsjones](https://github.com/AlexsJones)               | N/A             |
+
 | Thomas Schuetz        |                 | CNCF TAG App Delivery, Keptn                       | [thschue](https://github.com/thschue)                     | N/A             |
+
 | Brad McCoy            | Basiq           | CNCF, CDF, Keptn                                   | [bradmccoydev](https://github.com/bradmccoydev)           | N/A             |
+
 | Johannes Kleinlercher | suXess-IT       | CNCF App Delivery                                  | [jkleinlercher](https://github.com/jkleinlercher)         | N/A             |
+
 | Roberth Strand        | Amesto Fortytwo | CNCF App Delivery, OpenGitOps, Cloud Native Norway | [roberthstrand](https://github.com/roberthstrand)         | N/A             |
+
 | Alexandre Steppé      | NapoleonGames   |                                                    | [Haticode](https://github.com/HatiCode)                   | N/A             |
+
 | Matthis Holleville    | Agicap          |                                                    | [matthisholleville](https://github.com/matthisholleville) | N/A             |
+
 | Ankit Kumar           |                 | CNCF, GrowInCommunity                              | [kumarankit999](https://github.com/kumarankit999)         | N/A             |
+
 | Peter Pan             | DaoCloud        |                                                    | [panpan0000](https://github.com/panpan0000)               | N/A             |
+
 | Aisuko Li             |                 |                                                    | [aisuko](https://github.com/Aisuko)                       | N/A             |
+
 | Rakshit Gondwal       |                 | WeMakeDevs                                         | [rakshitgondwal](https://github.com/rakshitgondwal)       | N/A             |
+
 | Xinwei Xiong          | OpenIMSDK       |                                                    | [cubxxw](https://github.com/cubxxw)                       | N/A             |
+
 | Camilo Giraldo        |                 |                                                    | [camigira](https://github.com/camigira)                   | N/A             |
+
 | Kunal Verma           |                 | Kubesimplify                                       | [verma-kunal](https://github.com/verma-kunal)             | [verma-kunal](https://gitlab.com/verma-kunal) |
+
 | Yash Pimple           |                 |                                                    | [YashPimple](https://github.com/YashPimple)               | N/A             |
+
 | Nitish Kumar          |                 | KodeKloud                                          | [nitishfy](https://github.com/nitishfy)                   |   N/A           |
+
 |ARYAN                  |                 |                                                     | [ARYANis00001](https://github.com/ARYANis0001)            | N/A             |
+
 |Rudraksh Karpe         |                 |                                                     | [rudrakshkarpe](https://github.com/rudrakshkarpe)        | [rudrakshkarpe](https://gitlab.com/rudrakshkarpe) |
+
 | Mike Yeung            |                 |                                                     | [yysun316](https://github.com/yysun316)                  | N/A |
+
 | Kay Yan               | DaoCloud        | Kubespray, Nerdctl                                  | [yankay](https://github.com/yankay)                      | N/A |
+
 | Dharmik Thakkar       |                 |                                                     | [thakkardharmik] (https://github.com/thakkardharmik)      |N/A|
+
 | Ryo Tozawa            |                 |                                                    | [tozastation](https://github.com/tozastation)             |                 |
 
+| Hei Ng       |                 |                             |        [HEI204](https://github.com/HEI204)                  | N/A |
