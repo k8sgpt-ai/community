@@ -26,15 +26,21 @@ You can find our charter [here](./CHARTER.md).
 
 Please refer to our [Adopters list](./ADOPTERS.md) to see who is already using k8sgpt.
 
-## K8sGPT Office Hours
+## Governance
 
-We are currently in the process of scheduling the next Office Hours.
+Project governance is documented in [GOVERNANCE.md](./GOVERNANCE.md).
 
-In the meantime, please join our Slack community for more information.
+## Roadmap
 
-## Slack Community
+The project roadmap is in [ROADMAP.md](./ROADMAP.md).
 
-K8sGPT has its own Slack community. You can join through the [following link](https://join.slack.com/t/k8sgpt/shared_invite/zt-2ablh72q8-80lw46~ETCWl5dZQdDnfsg).
+## Community meeting
+
+k8sgpt holds a monthly public community meeting. The schedule and the Google Meet link are in the [community meeting section](https://github.com/k8sgpt-ai/k8sgpt/blob/main/GOVERNANCE.md#community-meeting) of the k8sgpt governance document.
+
+## Slack
+
+Find us in `#k8sgpt` on the [CNCF Slack](https://slack.cncf.io).
 
 ## License
 
